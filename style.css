@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #aa8df4;
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smooothing: antialiased;
+}
+
+.header {
+
+}
