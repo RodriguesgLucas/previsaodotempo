@@ -126,7 +126,7 @@ body{
     border-right: 1px solid #a2a2be;
 }
 
-.temperature-details__item: :last-child {
+.temperature-details__item:last-child {
     border: none;
 }
 
